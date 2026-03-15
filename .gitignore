@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# RAG specific data
+index/
+# (Optional) Ignore large documents if you don't want them in version control
+# documents/*.pdf
+# documents/*.jpg
+
+# Streamlit
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db

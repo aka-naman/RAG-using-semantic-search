@@ -1,4 +1,4 @@
-# 📚 Ask My Docs - Domain-Specific RAG System
+# Domain-Specific RAG System
 
 This project implements a high-performance, domain-specific "Ask My Docs" system featuring:
 - **Hybrid Retrieval:** Combines BM25 (keyword-based) and Vector Search (semantic-based).
